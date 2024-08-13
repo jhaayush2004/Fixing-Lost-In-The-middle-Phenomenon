@@ -97,3 +97,4 @@ By integrating these filters and the ```LOTR``` framework, we significantly impr
 - **```Enhanced Context Handling```**: The reordering and compression techniques ensure that long contexts are handled more effectively, preserving important information throughout the sequence.
 - **```Noise Reduction```**: The redundancy filter reduces noise, making the retrieval process more efficient and effective
 
+### Have a good day and don't get Lost in the Middle of your way!!!
